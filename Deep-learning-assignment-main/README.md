@@ -10,7 +10,8 @@
 This repository contains solutions and reports for the following labs:
 
 | Lab | Title |
-| :--- | :--- |
+| **Lab 1** | **The Perceptron** |
+| **Lab 2**| :--- |
 | **Lab 3** | **Logistic Regression as soft decision model** |
 | **Lab 4** | **Multiple linear regression using linear perceptron** |
 | **Lab 5** | **Linear regression neuron** |
